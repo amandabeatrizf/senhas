@@ -19,6 +19,9 @@ body{
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
+.cadeado{
+    width:10%;
+}
 
 .titulo-principal{
     font-family: var(--roboto-mono);
